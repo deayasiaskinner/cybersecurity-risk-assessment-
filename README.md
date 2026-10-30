@@ -52,6 +52,12 @@ The assessment used likelihood and impact ratings from 1 (Low) to 3 (High). High
 | Insecure Remote Access | 3 - High | 3 - High | 9 | High |
 | Phishing and Credential Theft | 3 - High | 3 - High | 9 | High |
 
+## Risk Heat Map
+
+![Blue Harbor Solutions Cybersecurity Risk Heat Map](Blue_Harbor_Risk_Heat_Map.png)
+
+The heat map illustrates the likelihood and impact of three identified cybersecurity risks. Phishing and credential theft and insecure remote access received the highest risk scores of 9, while the use of personal devices received a score of 6.
+
 ## Risk Prioritization
 
 Phishing and credential theft were identified as a priority risk because compromised employee credentials had already resulted in unauthorized access to organizational systems.
